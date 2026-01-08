@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  color: #333;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+.main {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.pizza {
+  margin-bottom: 40px;
+}
+
+.pizza-img {
+  width: 300px;
+  margin: 10px 0;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
